@@ -4,6 +4,7 @@
 - R
 - MySQL
 - Aprendend Python
+- Contato: nathanielutida@alunos.utfpr.edu.br
 <!--
   <div>
     <div style="display: inline_block"><br>
